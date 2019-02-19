@@ -339,7 +339,7 @@ nav ul li a:hover{
     color:#9b9b9b;
 }
 .footer-logo{
-    background-image: url('/CSS基礎/新版型/img/logo.png');
+    background-image: url('../img/logo.png');
     background-repeat:no-repeat;
     width: 182px;
     height: 45px;
