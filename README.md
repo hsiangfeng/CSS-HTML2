@@ -7,12 +7,12 @@
 ## 設計稿
 [https://github.com/hsiangfeng/CSS-HTML2/blob/master/design/HTML-CC.psd](https://github.com/hsiangfeng/CSS-HTML2/blob/master/design/HTML-CC.psd)
 ## 介面
-首頁
-<img src="https://i.imgur.com/FfTTKDe.png" width="500">
-課程
-<img src="https://i.imgur.com/gtoc4MC.png" width="500">
-問答
-<img src="https://i.imgur.com/CsWnVn6.png" width="500">
+首頁  
+<img src="https://i.imgur.com/FfTTKDe.png" width="500">  
+課程  
+<img src="https://i.imgur.com/gtoc4MC.png" width="500">  
+問答  
+<img src="https://i.imgur.com/CsWnVn6.png" width="500">  
 
 ## 使用技術&練習技術
 - CSS
